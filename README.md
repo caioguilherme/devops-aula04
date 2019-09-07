@@ -1,8 +1,8 @@
 # devops-aula04
 Aula 04: 30/08/2019
 
-Séries Favoritas:
+Músicas Favoritas:
 
-I - Breaking Bad (AMC)
-II - The Walking Dead (AMC)
-III - Supernatural (CW)
+I - Metallica - Creeping Death 
+II - Motorhead- Live To WIn
+III - Iron Maiden - The Line Between of The Love and Hate.
